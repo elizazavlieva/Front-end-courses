@@ -1,15 +1,16 @@
 body {
     background-color: #e4e978;
-
 }
+
 section {
-    
+    padding:  5px 15 px;
     font-style: italic;
     color: #4c7658;
 }
 
 article {
     padding: 15px;
+    padding-left: 15px;
     background: #f2f4c0;
     width: 700px;
     border: 1px solid #b2ad7d;
